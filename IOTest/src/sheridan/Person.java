@@ -34,6 +34,6 @@ public class Person {
 	
 	@Override
 	public String toString() {
-		return "First Name: " +getFirstName() +" Last Name: " +getLastName() +" Age: " +getAge();
+		return "First Name: " +getFirstName() +", Last Name: " +getLastName() +", Age: " +getAge();
 	}
 }
