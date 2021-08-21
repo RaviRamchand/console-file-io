@@ -1,5 +1,5 @@
 # console-file-io
-This program has 3 classes and takes hardcoded elements from an ArrayList, _pList and writes them to a text file, celeb.txt that could letter be read. 
+This program has 3 classes and takes hardcoded elements from an ArrayList, _pList and writes them to a text file, celeb.txt that could later be read. 
 
 ## Person.java
 The Person class has three field variables that is initialised by the Person constructor. This class also has getter methods for the field variables. 
